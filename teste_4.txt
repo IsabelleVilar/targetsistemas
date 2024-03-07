@@ -1,0 +1,6 @@
+Eu já tinha visto a resolução desse problema no youtube.
+Na primeira ida, deve-se ligar um interruptor e esperar alguns minutos até a lâmpada esquentar.
+Em seguida, desligar esse interruptor, ligar o segundo e manter o terceiro desligado.
+Na segunda ida, a lâmpada que estiver quente e apagada foi a ligada primeiro.
+A lâmpada que estiver acesa foi a ligada segunda.
+E a última lâmpada apagada e fria nao foi acionada.
